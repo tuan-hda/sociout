@@ -1,0 +1,3 @@
+[submodule "sociout-frontend"]
+	path = sociout-frontend
+	url = https://github.com/tuan-hda/sociout-frontend
