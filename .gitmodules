@@ -1,6 +1,6 @@
 [submodule "sociout-frontend"]
 	path = sociout-frontend
 	url = https://github.com/tuan-hda/sociout-frontend
-[submodule "Sociout"]
-	path = Sociout
-	url = https://github.com/elghe39/Sociout
+[submodule "sociout-backend"]
+	path = sociout-backend
+	url = https://github.com/elghe39/sociout-backend
